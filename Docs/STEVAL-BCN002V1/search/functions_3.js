@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['chat_5fdeviceinit',['CHAT_DeviceInit',['../chat_8h.html#a10cffa09758b74a716979ace73cab226',1,'CHAT_DeviceInit(void):&#160;chat.c'],['../chat_8c.html#a10cffa09758b74a716979ace73cab226',1,'CHAT_DeviceInit(void):&#160;chat.c']]],
+  ['config_5fnotify',['Config_Notify',['../_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#ab494dcc323a219114d9f47380dc21db8',1,'Config_Notify(uint32_t Feature, uint8_t Command, uint8_t data):&#160;gatt_db.c'],['../_b_l_e___sensor_demo_2src_2gatt__db_8c.html#ab494dcc323a219114d9f47380dc21db8',1,'Config_Notify(uint32_t Feature, uint8_t Command, uint8_t data):&#160;gatt_db.c']]],
+  ['configcommandparsing',['ConfigCommandParsing',['../_b_l_e___l_e_d___fading_2inc_2sensor_8h.html#a12f6c714263cccf5dcd005128a47b3a5',1,'ConfigCommandParsing(uint8_t *att_data, uint8_t data_length):&#160;sensor.c'],['../_b_l_e___sensor_demo_2inc_2sensor_8h.html#a12f6c714263cccf5dcd005128a47b3a5',1,'ConfigCommandParsing(uint8_t *att_data, uint8_t data_length):&#160;sensor.c'],['../_b_l_e___sensor_demo_2src_2sensor_8c.html#a12f6c714263cccf5dcd005128a47b3a5',1,'ConfigCommandParsing(uint8_t *att_data, uint8_t data_length):&#160;sensor.c']]],
+  ['configure_5fhidperipheral',['Configure_HidPeripheral',['../keyboard_8h.html#aee99e1e055f0de7d18455addfca7b45a',1,'Configure_HidPeripheral(void):&#160;keyboard.c'],['../mouse_8h.html#aee99e1e055f0de7d18455addfca7b45a',1,'Configure_HidPeripheral(void):&#160;keyboard.c'],['../keyboard_8c.html#aee99e1e055f0de7d18455addfca7b45a',1,'Configure_HidPeripheral(void):&#160;keyboard.c'],['../mouse_8c.html#aee99e1e055f0de7d18455addfca7b45a',1,'Configure_HidPeripheral(void):&#160;mouse.c']]],
+  ['crc16',['crc16',['../_e_x_t_2src_2throughput_8c.html#a35c7f77db5b9ba2165536e73acb55e6c',1,'throughput.c']]]
+];

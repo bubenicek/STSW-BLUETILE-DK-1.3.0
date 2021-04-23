@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['sensors_5fupdate_5frate',['sensors_update_rate',['../_b_l_e___sensor_demo_2src_2gatt__db_8c.html#a811123c7bfe5dcf858ff2044dedb6bc9',1,'gatt_db.c']]],
+  ['sensortimer_5fexpired',['sensorTimer_expired',['../_b_l_e___sensor_demo_2src_2gatt__db_8c.html#ae18bba59700e7a52ab4a7175eaccb542',1,'sensorTimer_expired():&#160;sensor.c'],['../_b_l_e___sensor_demo_2src_2sensor_8c.html#ae18bba59700e7a52ab4a7175eaccb542',1,'sensorTimer_expired():&#160;sensor.c']]],
+  ['serv_5fuuid',['serv_uuid',['../_b_l_e___throughput___e_x_t_2src_2gatt__db_8c.html#a85d948cb9b38cb3ae1e8d7514643c146',1,'gatt_db.c']]],
+  ['servhandle',['ServHandle',['../_b_l_e___throughput_2inc_2gatt__db_8h.html#a3ca17225e2ee01dbf2cea33e200cf0dd',1,'ServHandle():&#160;gatt_db.c'],['../_b_l_e___throughput_2src_2gatt__db_8c.html#a3ca17225e2ee01dbf2cea33e200cf0dd',1,'ServHandle():&#160;gatt_db.c'],['../_b_l_e___throughput___e_x_t_2inc_2gatt__db_8h.html#a3ca17225e2ee01dbf2cea33e200cf0dd',1,'ServHandle():&#160;gatt_db.c'],['../_b_l_e___throughput___e_x_t_2src_2gatt__db_8c.html#a3ca17225e2ee01dbf2cea33e200cf0dd',1,'ServHandle():&#160;gatt_db.c']]],
+  ['service_5fuuid',['service_uuid',['../_b_l_e___chat_2src_2gatt__db_8c.html#a9b47cced223735c0e4de2a52674db33e',1,'service_uuid():&#160;gatt_db.c'],['../_b_l_e___sensor_demo_2src_2gatt__db_8c.html#a9b47cced223735c0e4de2a52674db33e',1,'service_uuid():&#160;gatt_db.c'],['../_b_l_e___throughput_2src_2gatt__db_8c.html#a9b47cced223735c0e4de2a52674db33e',1,'service_uuid():&#160;gatt_db.c'],['../_b_l_e___throughput___e_x_t_2src_2gatt__db_8c.html#a9b47cced223735c0e4de2a52674db33e',1,'service_uuid():&#160;gatt_db.c']]],
+  ['services_5fmax_5fattribute_5frecords',['Services_Max_Attribute_Records',['../_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a3ef144617d3a1fe4a792ef62876b8091',1,'gatt_db.h']]],
+  ['set_5fconnectable',['set_connectable',['../_b_l_e___sensor_demo_2src_2sensor_8c.html#a471f790bd84671193226f7bf7e72d02b',1,'sensor.c']]],
+  ['signalperspad',['SignalPerSpad',['../_b_l_e___sensor_demo_2src_2sensor_8c.html#abafcbdae32d0e890623e3c43e0b33afc',1,'sensor.c']]],
+  ['signalrate',['SignalRate',['../_b_l_e___sensor_demo_2src_2sensor_8c.html#ae0e1cab1c8d7bc781ec32fffee47dec4',1,'sensor.c']]],
+  ['slave_5flatency',['slave_latency',['../structconn_param_s.html#a39219ac00a0e8ed843ee32b9df8be11e',1,'connParamS']]],
+  ['sn',['sn',['../struct__app__context__t.html#a86ce3da2116b0d147cb767d9add0f4a9',1,'_app_context_t']]],
+  ['spadnb',['SpadNb',['../_b_l_e___sensor_demo_2src_2sensor_8c.html#a06c9f5f69cd662eb4461351c222b3a9e',1,'sensor.c']]],
+  ['spi_5fproto_5fstate',['spi_proto_state',['../transport__layer_8h.html#a2b1125cba56fbd1d76240ffb06a5daef',1,'transport_layer.h']]],
+  ['start_5fhandle',['start_handle',['../structinclude_ser_s.html#a2cd982e3af3a66504335e09ea7495bbc',1,'includeSerS']]],
+  ['start_5ftime',['start_time',['../struct__app__context__t.html#a115fbbcf066cfc3c40d8d5e62a2be407',1,'_app_context_t::start_time()'],['../_b_l_e___sensor_demo_2src_2gatt__db_8c.html#a12e6dff3719076fe6f306d3f68e0d990',1,'start_time():&#160;sensor.c'],['../_b_l_e___sensor_demo_2src_2sensor_8c.html#a12e6dff3719076fe6f306d3f68e0d990',1,'start_time():&#160;sensor.c']]],
+  ['stepsfrompedometer',['StepsFromPedometer',['../_b_l_e___sensor_demo_2src_2sensor_8c.html#a16c6a71ee02e63cd2855d8060e54a4fa',1,'sensor.c']]],
+  ['stepspeed_5fb',['stepSpeed_B',['../_b_l_e___examples_2_b_l_e___l_e_d___fading_2src_2_blue_n_r_g1__it_8c.html#ab8db514d213dc07b02d5eec142d6e524',1,'BlueNRG1_it.c']]],
+  ['stepspeed_5fg',['stepSpeed_G',['../_b_l_e___examples_2_b_l_e___l_e_d___fading_2src_2_blue_n_r_g1__it_8c.html#ab3feecd903455f8c200fddcee1e6ac1c',1,'BlueNRG1_it.c']]],
+  ['stepspeed_5fr',['stepSpeed_R',['../_b_l_e___examples_2_b_l_e___l_e_d___fading_2src_2_blue_n_r_g1__it_8c.html#ac443baf0d533be01e322944cb8f07deb',1,'BlueNRG1_it.c']]],
+  ['swrevision',['swRevision',['../structdev_inf_service_s.html#ab7cb146f3d94fd0d154be0bf4378a502',1,'devInfServiceS']]],
+  ['syncnotification',['SyncNotification',['../struct_feature_notification.html#a4887cbfd4c940504ccdb6f1bf358310f',1,'FeatureNotification']]],
+  ['systemclocktick',['SystemClockTick',['../_b_l_e___examples_2_b_l_e___l_e_d___fading_2src_2_blue_n_r_g1__it_8c.html#a6b612d9f904e4929a51cf7265fc6d513',1,'SystemClockTick():&#160;BlueNRG1_it.c'],['../_b_l_e___examples_2_b_l_e___sensor_demo_2src_2_blue_n_r_g1__it_8c.html#a6b612d9f904e4929a51cf7265fc6d513',1,'SystemClockTick():&#160;BlueNRG1_it.c']]],
+  ['systick_5fcounter',['systick_counter',['../group___g_p_i_o___i_o_toggle.html#ga87918da4ec8a16d5c0ad9d02a48272c8',1,'systick_counter():&#160;transport_layer.c'],['../group___g_p_i_o___i_o_toggle.html#ga87918da4ec8a16d5c0ad9d02a48272c8',1,'systick_counter():&#160;transport_layer.c']]],
+  ['systick_5fcounter_5fprev',['systick_counter_prev',['../transport__layer_8c.html#af8171a16cfb981af76f1412f8dc2d62e',1,'transport_layer.c']]]
+];

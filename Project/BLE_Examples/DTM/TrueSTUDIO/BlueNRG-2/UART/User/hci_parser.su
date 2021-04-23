@@ -1,0 +1,2 @@
+hci_parser.c:155:6:packet_received	8	static
+hci_parser.c:63:11:hci_input	32	static

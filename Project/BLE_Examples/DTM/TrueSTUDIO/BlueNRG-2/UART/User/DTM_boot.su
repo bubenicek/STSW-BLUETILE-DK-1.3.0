@@ -1,0 +1,2 @@
+DTM_boot.c:356:6:DTM_SystemInit	32	static
+DTM_boot.c:449:6:DTM_StackInit	8	static

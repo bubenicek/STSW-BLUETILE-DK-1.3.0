@@ -1,0 +1,8 @@
+transport_layer.c:82:12:App_SleepMode_Check	8	static
+transport_layer.c:132:10:process_command	40	static
+transport_layer.c:166:6:transport_layer_init	8	static
+transport_layer.c:447:6:send_command	8	static
+transport_layer.c:462:6:send_event_isr	16	static
+transport_layer.c:332:6:transport_layer_tick	544	static
+transport_layer.c:467:6:send_event	8	static
+transport_layer.c:507:6:advance_dma	24	static

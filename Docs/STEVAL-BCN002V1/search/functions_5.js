@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['ecompass_5fupdate',['ECompass_Update',['../_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a4144e4e13600e63cf1652233e8f168bb',1,'gatt_db.h']]],
+  ['enablehwdoubletap',['EnableHWDoubleTap',['../_h_w_advance_features_8h.html#ab40f8f0f00972f1760f6e1e7e07d691d',1,'HWAdvanceFeatures.h']]],
+  ['enablehwfreefall',['EnableHWFreeFall',['../_h_w_advance_features_8h.html#aab327a0d406624d652cc02ea0f556469',1,'EnableHWFreeFall(void):&#160;HWAdvanceFeatures.c'],['../_h_w_advance_features_8c.html#aab327a0d406624d652cc02ea0f556469',1,'EnableHWFreeFall(void):&#160;HWAdvanceFeatures.c']]],
+  ['enablehworientation6d',['EnableHWOrientation6D',['../_h_w_advance_features_8h.html#a0b9704ae4cef1890251d2352e0af4d77',1,'EnableHWOrientation6D(void):&#160;HWAdvanceFeatures.c'],['../_h_w_advance_features_8c.html#a0b9704ae4cef1890251d2352e0af4d77',1,'EnableHWOrientation6D(void):&#160;HWAdvanceFeatures.c']]],
+  ['enablehwpedometer',['EnableHWPedometer',['../_h_w_advance_features_8h.html#abd7c460abec7629310b91a470ddd794d',1,'EnableHWPedometer(void):&#160;HWAdvanceFeatures.c'],['../_h_w_advance_features_8c.html#abd7c460abec7629310b91a470ddd794d',1,'EnableHWPedometer(void):&#160;HWAdvanceFeatures.c']]],
+  ['enablehwsingletap',['EnableHWSingleTap',['../_h_w_advance_features_8h.html#a6837c58f2f38bf2a71912893ee255691',1,'EnableHWSingleTap(void):&#160;HWAdvanceFeatures.c'],['../_h_w_advance_features_8c.html#a6837c58f2f38bf2a71912893ee255691',1,'EnableHWSingleTap(void):&#160;HWAdvanceFeatures.c']]],
+  ['enablehwtilt',['EnableHWTilt',['../_h_w_advance_features_8h.html#a37246aeddca6ba9b438d3c3ba87cfb86',1,'EnableHWTilt(void):&#160;HWAdvanceFeatures.c'],['../_h_w_advance_features_8c.html#a37246aeddca6ba9b438d3c3ba87cfb86',1,'EnableHWTilt(void):&#160;HWAdvanceFeatures.c']]],
+  ['enablehwwakeup',['EnableHWWakeUp',['../_h_w_advance_features_8h.html#aafac8a6fd6f08527a0627107d46318bf',1,'EnableHWWakeUp(void):&#160;HWAdvanceFeatures.c'],['../_h_w_advance_features_8c.html#aafac8a6fd6f08527a0627107d46318bf',1,'EnableHWWakeUp(void):&#160;HWAdvanceFeatures.c']]],
+  ['environmental_5fupdate',['Environmental_Update',['../_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a4ea743c447071c94b488772d46e8d9aa',1,'Environmental_Update(int32_t Press, uint16_t Hum, int16_t Temp):&#160;gatt_db.c'],['../_b_l_e___sensor_demo_2src_2gatt__db_8c.html#a4ea743c447071c94b488772d46e8d9aa',1,'Environmental_Update(int32_t Press, uint16_t Hum, int16_t Temp):&#160;gatt_db.c']]]
+];

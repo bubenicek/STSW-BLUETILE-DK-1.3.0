@@ -1,0 +1,3 @@
+DTM_cmds.c:67:12:aci_hal_updater_start	0	static
+DTM_cmds.c:74:12:aci_hal_get_firmware_details	56	static
+DTM_cmds.c:113:12:aci_hal_transmitter_test_packets	24	static

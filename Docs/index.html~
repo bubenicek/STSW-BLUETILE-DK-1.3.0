@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
+</head>
+<body>
+<h2>BlueNRG-1,2 Development kits for BlueNRG-1_2 documentation version 3.2.1.0</h2>
+<i>Please check on ST <a href="http://www.st.com/bluenrg-1">BlueNRG-1</a> website and on  <a href="http://www.st.com/bluenrg-2"> BlueNRG-2</a> website for complete set of documents</i>
+<h3> Release Notes </h3><li> <a href = "./BlueNRG1_DK_release_notes/Release_Notes.html">BlueNRG-1,2 Development Kits Release Notes </a>
+
+<h3> Key Resources </h3><li> <a href = "./BlueNRG1_key_resources/key_resources.html">BlueNRG-1,2 Key Resources </a>
+
+<h3> Datasheets </h3><li> <a href = "https://www.st.com/resource/en/datasheet/bluenrg-1.pdf">BlueNRG-1 Datasheet </a>
+<li> <a href = "https://www.st.com/resource/en/datasheet/bluenrg-2.pdf">BlueNRG-2 Datasheet </a>
+
+<h3> Device & Kits Documentation </h3><li> <a href = "https://www.st.com/resource/en/application_note/dm00262995.pdf">Bringing up the BlueNRG-1,2 device Application Note (AN4818) </a>
+<li> <a href = "https://www.st.com/resource/en/application_note/dm00263000.pdf">PCB design guidelines for the BlueNRG-1,2 device Application Note (AN4819) </a>
+<li> <a href = "https://www.st.com/resource/en/application_note/dm00263007.pdf">BlueNRG-1,2 Low Power Modes Application Note (AN4820) </a>
+<li> <a href = "https://www.st.com/resource/en/application_note/dm00294188.pdf">BlueNRG-1,2 UART Bootloader Protocol Application Note (AN4872) </a>
+<li> <a href = "https://www.st.com/resource/en/application_note/dm00514611.pdf">The BlueNRG-1, BlueNRG-2 improving robustness (AN5187) </a>
+<li> <a href = "https://www.st.com/resource/en/application_note/dm00100116.pdf">Using the BlueNRG family transceivers under ARIB STD-T66 in the 2400 - 2483.5 MHz band (AN4392) </a>
+<li> <a href = "https://www.st.com/resource/en/application_note/dm00099263.pdf">Using the BlueNRG family transceivers under ETSI EN 300 328 in the 2400 - 2483.5 MHz band (AN4387) </a>
+<li> <a href = "https://www.st.com/resource/en/application_note/dm00098029.pdf">Using the BlueNRG family transceivers under FCC title 47 part in the 2400 - 2483.5 MHz band (AN4378)  </a>
+<li> <a href = "https://www.st.com/resource/en/user_manual/dm00298232.pdf">BlueNRG-1,2 Development Kit User Manual (UM2071) </a>
+<li> <a href = "https://www.st.com/resource/en/user_manual/dm00312767.pdf">Getting started with STEVAL-IDB007Vx, STEVAL-IDB008Vx, STEVAL-IDB009Vx evaluation boards (UM2094) </a>
+<li> <a href = "https://www.st.com/resource/en/schematic_pack/steval_idb007v2_schematic.pdf">BlueNRG-1, STEVAL-IDB007V2 Schematic </a>
+<li> <a href = "https://www.st.com/resource/en/bill_of_materials/steval-idb007v2_bom.pdf">BlueNRG-1, STEVAL-IDB007V2 BOM file </a>
+<li> <a href = "https://www.st.com/resource/en/board_manufacturing_specification/steval-idb007v2_3a37c9_gerber.zip">BlueNRG-1, STEVAL-IDB007V2 gerber files </a>
+<li> <a href = "https://www.st.com/resource/en/schematic_pack/steval-idb007v1m_schematic.pdf">BlueNRG-1, STEVAL-IDB007V1M Schematic </a>
+<li> <a href = "https://www.st.com/resource/en/bill_of_materials/steval-idb007v1m_bom.pdf ">BlueNRG-1, STEVAL-IDB007V1M BOM file </a>
+<li> <a href = "https://www.st.com/resource/en/board_manufacturing_specification/steval-idb007v1m.zip">BlueNRG-1, STEVAL-IDB007V1M gerber files </a>
+<li> <a href = "https://www.st.com/resource/en/schematic_pack/steval-idb008v1_schematic.pdf">BlueNRG-2, STEVAL-IDB008V1 Schematic  </a>
+<li> <a href = "https://www.st.com/resource/en/bill_of_materials/steval-idb008v1_bom.pdf">BlueNRG-2, STEVAL-IDB008V1 BOM file  </a>
+<li> <a href = "https://www.st.com/resource/en/board_manufacturing_specification/steval-idb008v1_gerber.zip">BlueNRG-2, STEVAL-IDB008V1 gerber files </a>
+<li> <a href = "https://www.st.com/resource/en/schematic_pack/steval-idb008v2_schematic.pdf">BlueNRG-2, STEVAL-IDB008V2 Schematic  </a>
+<li> <a href = "https://www.st.com/resource/en/bill_of_materials/steval-idb008v2_bom.pdf">BlueNRG-2, STEVAL-IDB008V2 BOM file  </a>
+<li> <a href = "https://www.st.com/resource/en/board_manufacturing_specification/steval-idb008v2_gerber.zip">BlueNRG-2, STEVAL-IDB008V2 gerber files </a>
+<li> <a href = "https://www.st.com/resource/en/schematic_pack/steval-idb009v1_schematic.pdf">BlueNRG-2, STEVAL-IDB009V1 Schematic  </a>
+<li> <a href = "https://www.st.com/resource/en/bill_of_materials/steval-idb009v1_bom.pdf">BlueNRG-2, STEVAL-IDB009V1 BOM file  </a>
+<li> <a href = "https://www.st.com/resource/en/board_manufacturing_specification/steval-idb009v1_gerber.zip">BlueNRG-2, STEVAL-IDB009V1 gerber files </a>
+<li> <a href = "./USB-to-SERIAL_FW_upgrade_procedure/USB-to-SERIAL_FW_upgrade_procedure.html">USB to Serial DFU FW upgrade procedure (BlueNRG-1,2) </a>
+
+<h3> BlueNRG-BLE Stack Library documentation </h3><li> <a href = "./BlueNRG1_fw_stack_release_notes/BlueNRG-1_release_notes.html">BlueNRG-BLE Stack Library Release Notes </a>
+<li> <a href = "./BlueNRG1_aci_events/files.html">BlueNRG-BLE Stack Library documentation (APIs, events, modular configuration, BLE application framework, OTA, AES library) </a>
+<li> <a href = "./BLE_Static_Stack/BLE_Static_Stack.html">BlueNRG-BLE Stack Library Static Stack documentation </a>
+<li> <a href = "./BlueNRG1_BLE_stacks_migration/ble__stacks__migration_8h.html">Bluetooth LE Stack v1.x to v2.x and from v2.0 to v2.1 migration guideline  documentation </a>
+<li> <a href = "https://www.st.com/resource/en/application_note/dm00293821.pdf">BLE Over Ther Air Firmware Upgrade (AN4869) </a>
+<li> <a href = "https://www.st.com/resource/en/programming_manual/dm00294449.pdf">BLE stack programming guidelines (PM0257) </a>
+<li> <a href = "./BlueNRG-1_GATT_database_size/BlueNRG-1_GATT_database_size.html">GATT database size </a>
+<li> <a href = "./BLE_Stack_Memory_Manager/BLE_Stack_Memory_Manager.html">BLE stack v2.x Stack Memory Manager </a>
+<li> <a href = "./SPI_protocol_specification/SPI_protocol_specification.html">SPI protocol for network coprocessor </a>
+<li> <a href = "./BlueNRG-1_Debugging_Guidelines/BlueNRG-1_Debugging_Guidelines.html">BLE application debugging tips </a>
+<li> <a href = "./Multiple_Connection_Formula/Multiple_Connections_Formula.html">Bluetooth Low Energy (BLE) Multiple Connections scenarios formula and timing chart </a>
+<li> <a href = "./Multiple_Connection_Guidelines/Multiple_Connection_Guidelines.html">Bluetooth Low Energy (BLE) Multiple Connections scenarios guidelines </a>
+
+<h3> 2.4 GHz Proprietary Radio APIs documentation </h3><li> <a href = "https://www.st.com/resource/en/user_manual/dm00485412.pdf">BlueNRG-1,2 2.4 GHz proprietary radio low level driver (UM2379) </a>
+<li> <a href = "./BlueNRG1_Periph_Drivers/_blue_n_r_g1__radio_8c.html">BlueNRG-1,2 2.4 GHz proprietary radio low level driver APIs documentation </a>
+<li> <a href = "./BlueNRG1_hal_drivers/hal__radio_8c.html">BlueNRG-1,2 2.4 GHz proprietary radio low level driver HAL APIs documentation </a>
+
+<h3> Peripheral drivers documentation </h3><li> <a href = "./BlueNRG1_Periph_Drivers/files.html">BlueNRG-1,2 Peripheral Drivers documentation </a>
+
+<h3> SDK & HAL drivers documentation </h3><li> <a href = "./BlueNRG1_sdk_drivers/files.html">BlueNRG-1,2 SDK drivers </a>
+<li> <a href = "./BlueNRG1_hal_drivers/files.html">BlueNRG-1,2 HAL drivers </a>
+
+<h3> BLE Demonstrations, 2.4 GHz Proprietary Radio Applications & Peripheral Drivers Applications  </h3><li> <a href = "./BLE_Examples/files.html">BlueNRG-1,2 BLE Demonstrations Applications </a>
+<li> <a href = "./BlueNRG1_Periph_Examples/radio_files.html">BlueNRG-1,2 2.4 GHz Proprietary Radio Applications </a>
+<li> <a href = "./BlueNRG1_Periph_Examples/files.html">BlueNRG-1,2 Peripheral Drivers Applications </a>
+
+<h3> Central/Master Library </h3><li> <a href = "./master_library_html/files.html">BlueNRG-1,2 Central/Master Library APIs & events callbacks  </a>
+
+<h3> PC applications </h3><li> <a href = "./BLE_Radio_Parameters_Wizard/BLE_Radio_Parameters_Wizard.html">BlueNRG-X Radio Init Parameters Wizard for BLE stack </a>
+
+<h3> BlueNRG-1,2 Network Coprocessor (SPI & UART mode) </h3><li> <a href = "./Network_Coprocessor_html/Network_coprocessor.html">BlueNRG-1,2 Network coprocessor framework  </a>
+<li> <a href = "./STM32_SPI_protocol_example_html/STM32_SPI_protocol_example.html">STM32L - BlueNRG-1,2 Network coprocessor setup & framework (SPI mode)   </a>
+<li> <a href = "./STM32_UART_protocol_example_html/STM32_UART_protocol_example.html">STM32L - BlueNRG-1,2 Network coprocessor setup & framework (UART mode)   </a>
+<li> <a href = "./STM32_APIs_Events_html/files.html">STM32L - BlueNRG-1,2 Network coprocessor APIs, Events & Constants   </a>
+
+<h3> BlueNRG-1,2 PC applications/utilities (available on standalone SW packages)  </h3><li> <a href = "https://www.st.com/content/st_com/en/products/embedded-software/wireless-connectivity-software/stsw-bnrgui.html">BlueNRG GUI SW package (STSW-BNRGUI) web page </a>
+<li> <a href = "https://www.st.com/resource/en/user_manual/dm00286976.pdf">BlueNRG GUI SW package (STSW-BNRGUI) user manual (UM2058) </a>
+<li> <a href = "https://www.st.com/content/st_com/en/products/embedded-software/wireless-connectivity-software/stsw-bnrgflasher.html">BlueNRG-1,2 Flasher Utility (STSW-BNRGFLASHER) web page </a>
+<li> <a href = "https://www.st.com/resource/en/user_manual/dm00498829.pdf">BlueNRG-1,2 Flasher Utility (STSW-BNRGFLASHER) user manual (UM2406) </a>
+<li> <a href = "https://www.st.com/content/st_com/en/products/embedded-software/wireless-connectivity-software/stsw-bnrg001.html">BlueNRG current consumption estimation tool (STSW-BNRG001) web page </a>
+<li> <a href = "https://www.st.com/resource/en/data_brief/stsw-bnrg001.pdf">BlueNRG current consumption estimation tool (STSW-BNRG001) databrief </a>
+
+<h3> License File </h3><li> <a href = "license.txt">BlueNRG-1,2 Development Kits License File </a>
+
+</body>
+</html>

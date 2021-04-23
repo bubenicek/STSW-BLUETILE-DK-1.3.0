@@ -1,0 +1,16 @@
+hw_config.c:51:6:WDG_Configuration	8	static
+hw_config.c:116:6:NVIC_DisableCSnIrq	16	static
+hw_config.c:126:6:NVIC_EnableCSnIrq	16	static
+hw_config.c:136:6:NVIC_DisableRadioIrq	16	static
+hw_config.c:146:6:NVIC_EnableRadioIrq	16	static
+hw_config.c:69:6:NVIC_Configuration	16	static
+hw_config.c:156:6:GPIO_RTS_Output	16	static
+hw_config.c:172:6:GPIO_RTS_Uart	16	static
+hw_config.c:187:6:GPIO_CTS_Input	16	static
+hw_config.c:199:6:GPIO_CTS_Irq	8	static
+hw_config.c:208:6:GPIO_CTS_Uart	16	static
+hw_config.c:230:6:GPIO_Configuration	16	static
+hw_config.c:292:6:UART_Configuration	24	static
+hw_config.c:326:6:SPI_Slave_Configuration	16	static
+hw_config.c:348:6:DMA_Configuration	56	static
+hw_config.c:401:9:DMA_Rearm	8	static

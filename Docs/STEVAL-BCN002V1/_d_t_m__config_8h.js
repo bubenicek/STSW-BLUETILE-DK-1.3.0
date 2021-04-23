@@ -1,0 +1,27 @@
+var _d_t_m__config_8h =
+[
+    [ "ATT_VALUE_ARRAY_SIZE", "_d_t_m__config_8h.html#a955813e2fec527d0b7c54fece75489be", null ],
+    [ "CONFIG_TABLE", "_d_t_m__config_8h.html#abf1598ffad7ebb1290800feaa24b0fc3", null ],
+    [ "DTM_NUM_GATT_ATTRIBUTES", "_d_t_m__config_8h.html#ad6b724f941dbaaf1045238ab9c214705", null ],
+    [ "DTM_NUM_GATT_SERVICES", "_d_t_m__config_8h.html#af67372fa19c11ca5cb997f3f8e9ed935", null ],
+    [ "DTM_NUM_LINK", "_d_t_m__config_8h.html#a43a1323f83c66dc7086c43649d9725c7", null ],
+    [ "FLASH_SEC_DB_SIZE", "_d_t_m__config_8h.html#a93c55e7ebeae3f8b69082016d9d8955d", null ],
+    [ "FLASH_SERVER_DB_SIZE", "_d_t_m__config_8h.html#a41a761350cc7aca12906d1e6e8da64a3", null ],
+    [ "HS_STARTUP_TIME", "_d_t_m__config_8h.html#a36faeb7c4630a53742da2e3a1d352bc4", null ],
+    [ "LOW_SPEED_SOURCE", "_d_t_m__config_8h.html#a9103db548fd144f56dd7b4ebd0a30845", null ],
+    [ "MASTER_SLEEP_CLOCK_ACCURACY", "_d_t_m__config_8h.html#ad7a05705ffd9a1a872b65f283ee189bb", null ],
+    [ "MAX_ATT_MTU", "_d_t_m__config_8h.html#a7439423a752b9de478a9e2208d34f86d", null ],
+    [ "MAX_CONN_EVENT_LENGTH", "_d_t_m__config_8h.html#a4e4ec03baba09a3a6d02a73ae16cebf1", null ],
+    [ "MBLOCKS_COUNT", "_d_t_m__config_8h.html#a6ce3c20bf32284e3ce4459bfbd2b9cb5", null ],
+    [ "NUM_GATT_ATTRIBUTES", "_d_t_m__config_8h.html#a9f7dd9f065253a17765424775a3d9853", null ],
+    [ "NUM_GATT_SERVICES", "_d_t_m__config_8h.html#acdf2d1358f4e103aade0ff5c066196c8", null ],
+    [ "NUM_LINKS", "_d_t_m__config_8h.html#adff16396e5bb9ba24b129ec2ab874031", null ],
+    [ "OPT_MBLOCKS", "_d_t_m__config_8h.html#a5c317a5c9e04ab8dabd083ba28364458", null ],
+    [ "PREPARE_WRITE_LIST_SIZE", "_d_t_m__config_8h.html#aa0573d382c7f90c43d5af48b50494902", null ],
+    [ "SLAVE_SLEEP_CLOCK_ACCURACY", "_d_t_m__config_8h.html#a8ebae55e00bbee0a9cb3729fd66bfc83", null ],
+    [ "NO_INIT", "_d_t_m__config_8h.html#a199ca48495202cfc17874097cee50557", null ],
+    [ "NO_INIT_SECTION", "_d_t_m__config_8h.html#a25283560ee3c30a0ae8e9afded3956a5", null ],
+    [ "NO_INIT_SECTION", "_d_t_m__config_8h.html#aaa8cf934d10ab80a78105ba42f304fe2", null ],
+    [ "BlueNRG_Stack_Init_params", "_d_t_m__config_8h.html#ac1a85fc7f2ff22dbcd40f8c705d6b248", null ],
+    [ "hot_table_radio_config", "_d_t_m__config_8h.html#ac87282723453514a49477781cb75b32a", null ]
+];

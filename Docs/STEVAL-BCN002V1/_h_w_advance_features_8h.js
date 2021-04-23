@@ -1,0 +1,36 @@
+var _h_w_advance_features_8h =
+[
+    [ "AccEventType", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3", [
+      [ "ACC_NOT_USED", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3ab1c0e24f201efdb8fdf1078caa0791c9", null ],
+      [ "ACC_6D_OR_TOP", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3a84a0af0fe28aa4fa30b0308bbb18fbe4", null ],
+      [ "ACC_6D_OR_LEFT", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3ae1b958c4c2c4f243ebd8fb3b5fb0ee20", null ],
+      [ "ACC_6D_OR_BOTTOM", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3a166b0d7062269e36400a71456fff247a", null ],
+      [ "ACC_6D_OR_RIGHT", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3a5c59474bb7bc81f3f800800083a2faf8", null ],
+      [ "ACC_6D_OR_UP", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3a9c7080d4f2c3b477bbea344c0e7079a8", null ],
+      [ "ACC_6D_OR_DOWN", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3ad78ac276160bb0e3c911d37b197ff969", null ],
+      [ "ACC_TILT", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3a1ef6158788e7df7c29e3a0634e720b2c", null ],
+      [ "ACC_FREE_FALL", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3a58d89776661fe820703823e4d3b59c5b", null ],
+      [ "ACC_SINGLE_TAP", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3ae51c123ca07ed0e0d034926427c1d31f", null ],
+      [ "ACC_DOUBLE_TAP", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3a9ce1960452368edf853674493c8a17a5", null ],
+      [ "ACC_WAKE_UP", "_h_w_advance_features_8h.html#ad2e85dbce8a28c759bbc32276776e8b3a70e3c47cc5301c25a259a962e489d7e2", null ]
+    ] ],
+    [ "DisableHWDoubleTap", "_h_w_advance_features_8h.html#a73ad1c790e9abe2d7e986a954ddcb1e3", null ],
+    [ "DisableHWFeatures", "_h_w_advance_features_8h.html#a628dfcba4ca765765b5d4f3992f1d426", null ],
+    [ "DisableHWFreeFall", "_h_w_advance_features_8h.html#a7fb1b97de882c1a5815bf18a9c9acd75", null ],
+    [ "DisableHWOrientation6D", "_h_w_advance_features_8h.html#a39a10befd3f8c5858a8f96cad1cf9d68", null ],
+    [ "DisableHWPedometer", "_h_w_advance_features_8h.html#a108324a273f3a56c73f13b74cdaed367", null ],
+    [ "DisableHWSingleTap", "_h_w_advance_features_8h.html#ab4e15ace2b83e7ee1bc790ed1e792162", null ],
+    [ "DisableHWTilt", "_h_w_advance_features_8h.html#a8236002b77549babebde0cb8a9db68ba", null ],
+    [ "DisableHWWakeUp", "_h_w_advance_features_8h.html#adc916acfbcd166ef687a85cb75d471e6", null ],
+    [ "EnableHWDoubleTap", "_h_w_advance_features_8h.html#ab40f8f0f00972f1760f6e1e7e07d691d", null ],
+    [ "EnableHWFreeFall", "_h_w_advance_features_8h.html#aab327a0d406624d652cc02ea0f556469", null ],
+    [ "EnableHWOrientation6D", "_h_w_advance_features_8h.html#a0b9704ae4cef1890251d2352e0af4d77", null ],
+    [ "EnableHWPedometer", "_h_w_advance_features_8h.html#abd7c460abec7629310b91a470ddd794d", null ],
+    [ "EnableHWSingleTap", "_h_w_advance_features_8h.html#a6837c58f2f38bf2a71912893ee255691", null ],
+    [ "EnableHWTilt", "_h_w_advance_features_8h.html#a37246aeddca6ba9b438d3c3ba87cfb86", null ],
+    [ "EnableHWWakeUp", "_h_w_advance_features_8h.html#aafac8a6fd6f08527a0627107d46318bf", null ],
+    [ "GetHWOrientation6D", "_h_w_advance_features_8h.html#a6b20ad693895d13bc7bd3c13e6c32387", null ],
+    [ "GetStepHWPedometer", "_h_w_advance_features_8h.html#a74e0992af4bf55567b6b7b9b3c5a7ee8", null ],
+    [ "InitHWFeatures", "_h_w_advance_features_8h.html#a260050eb69a655cb2b8fadf8721c1d6b", null ],
+    [ "ResetHWPedometer", "_h_w_advance_features_8h.html#a6c0fff98d8f71c4d5cf5e7fa956ee2e9", null ]
+];

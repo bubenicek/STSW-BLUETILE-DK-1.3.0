@@ -1,0 +1,27 @@
+var _b_l_e___sensor_demo_2inc_2gatt__db_8h =
+[
+    [ "AxesRaw_t", "struct_axes_raw__t.html", "struct_axes_raw__t" ],
+    [ "W2ST_CONSOLE_MAX_CHAR_LEN", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a92d352013ab4f15b030f23cce023bfea", null ],
+    [ "HW_SERVICE_INDEX", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#adf764cbdea00d65edcd07bb9953ad2b7afb00b3799a0c62d4ef92284e3728ed4d", null ],
+    [ "CONFIG_SERVICE_INDEX", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a748dcec9846f448db755def5c3e32753", null ],
+    [ "CONSOLE_SERVICE_INDEX", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#adf764cbdea00d65edcd07bb9953ad2b7af8f27a149f65ce97e000815084fe50cd", null ],
+    [ "AccEvent_Notify", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a2a2084cda0fa25acb307ee6117dbb6a9", null ],
+    [ "AccGyroMag_Update", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a7ec5be71ebd075f5cf7c85766e23f58d", null ],
+    [ "Add_ConfigW2ST_Service", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a15a03923947d0997dd23465cc614ba70", null ],
+    [ "Add_ConsoleW2ST_Service", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#aa107d944f5111f9832cea642adcb546c", null ],
+    [ "Add_HW_SW_ServW2ST_Service", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a9ca454af4ebe7db51feb97fa69f300a9", null ],
+    [ "Attribute_Modified_CB", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a67cf8a5463747fd16ddf3cded0efea57", null ],
+    [ "Config_Notify", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#ab494dcc323a219114d9f47380dc21db8", null ],
+    [ "ECompass_Update", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a4144e4e13600e63cf1652233e8f168bb", null ],
+    [ "Environmental_Update", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a4ea743c447071c94b488772d46e8d9aa", null ],
+    [ "FlightSense_Update", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#ad2f4f44860be77600904c0845a422e1c", null ],
+    [ "FreeFall_Notify", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a7ba3e4e1ae0db91f297b152fa48931f4", null ],
+    [ "GasGauge_Update", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a0a03c8454d2963bc9d4e631cc7bb2357", null ],
+    [ "getTimestamp", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a3cfda19805fb30bfdcfa6dd67b29a627", null ],
+    [ "Led_Update", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#aba10e78b72cf3977f1d1f12a4f2550d7", null ],
+    [ "Quaternion_Update", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#ad301566b30cb3a162c695b64bbf67320", null ],
+    [ "Read_Request_CB", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#af7f93acf336490aa6014dd6c67bd512c", null ],
+    [ "Term_Update", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a6b477f12072661d1839348f409016fe5", null ],
+    [ "Terminal_Update", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a5a78d422d308b44cca8cd35294e81f6e", null ],
+    [ "Services_Max_Attribute_Records", "_b_l_e___sensor_demo_2inc_2gatt__db_8h.html#a3ef144617d3a1fe4a792ef62876b8091", null ]
+];
